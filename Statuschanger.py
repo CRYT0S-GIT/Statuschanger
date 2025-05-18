@@ -1,7 +1,7 @@
 import requests
 import time
 
-## 🔴⚠️ MET TON TOKEN ET NE LE PARTAGE JAMAIS LOUOLOU⚠️🔴
+## 🔴⚠️ MET TON TOKEN ET NE LE PARTAGE JAMAIS ⚠️🔴
 TOKEN = ""
 
 def Title(text):
